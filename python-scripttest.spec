@@ -8,7 +8,7 @@
 Summary:	Helper to test command-line scripts
 Name:		python-%{module}
 Version:	1.3
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/s/scripttest/%{module}-%{version}.tar.gz
