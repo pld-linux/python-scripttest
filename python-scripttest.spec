@@ -9,7 +9,7 @@ Summary:	Helper to test command-line scripts
 Summary(pl.UTF-8):	Moduł pomocniczy do testowania skryptów linii poleceń
 Name:		python-%{module}
 Version:	1.3
-Release:	10
+Release:	11
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/s/scripttest/%{module}-%{version}.tar.gz
